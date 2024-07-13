@@ -1,4 +1,4 @@
-### Splitty - an user-friendly app that tracks expenses and eases the process of managing them in a group of people
+## Splitty - an user-friendly app that tracks expenses and eases the process of managing them in a group of people
 
 While the project can be run out-of-the-box with Gradle, running it from within your IDE (Eclipse/IntelliJ) requires setting up OpenJFX.
 
